@@ -1,0 +1,232 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "section": "1.1_history",
+    "question": "What early machine used punch cards to perform calculations and tabulate data in 1889?",
+    "expected_answer": "Herman Hollerith's punch-card tabulating machine, awarded a patent in 1889.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 3,
+    "evidence_quote": "Herman Hollerith’s punch-card tabulating machine, for which he was awarded a patent in 1889.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "section": "1.1_history",
+    "question": "Who was Grace Hopper and what computer did she work with in 1960?",
+    "expected_answer": "Grace Hopper was a pioneer in computer science who earned her PhD in mathematics and worked with the UNIVAC computer.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 4,
+    "evidence_quote": "Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "section": "1.1_history",
+    "question": "How have nontechnical industries like agriculture adopted computing technology?",
+    "expected_answer": "Farmers control irrigation and monitor field conditions using computing technology.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 8,
+    "evidence_quote": "for example, farmers can control irrigation and monitor field conditions.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "section": "1.1_history",
+    "question": "What are the two dominant operating systems running smartphones today?",
+    "expected_answer": "The two operating systems are iOS running iPhones and Android running devices such as Samsung Galaxy phones.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 12,
+    "evidence_quote": "two operating systems that run iPhones and Android devices (such as Samsung’s Galaxy phones), respectively, have similar performance capabilities",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "section": "1.1_history",
+    "question": "How fast do computers typically double their capabilities according to historical trends?",
+    "expected_answer": "Computers typically double their capabilities in less than two years.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 16,
+    "evidence_quote": "Computers today typically double their capabilities in less than two years.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "section": "1.2_hardware_network",
+    "question": "What are hardwired instructions needed before an operating system loads called?",
+    "expected_answer": "They are called read-only memory (ROM).",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 24,
+    "evidence_quote": "operating system loads and is ready to use, the computer needs hardwired instructions, called read-only memory (ROM).",
+    "filter": {
+      "section": "1.2_hardware_network"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "section": "1.2_hardware_network",
+    "question": "Why should businesses procure computers with sufficient RAM?",
+    "expected_answer": "To make sure programs run efficiently without slowdown.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 24,
+    "evidence_quote": "Businesses should be sure to procure computers with sufficient RAM and to make sure",
+    "filter": {
+      "section": "1.2_hardware_network"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "section": "1.3_cloud_iot",
+    "question": "What does HTML provide for web pages?",
+    "expected_answer": "HTML provides the structure on which web pages are based, describing elements such as font size and background colors.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 28,
+    "evidence_quote": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes such as the font size and background colors of the displayed page.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "section": "1.3_cloud_iot",
+    "question": "What is a Uniform Resource Locator (URL)?",
+    "expected_answer": "A URL is an address similar to a postal address directing users to a unique location or page on the World Wide Web.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 28,
+    "evidence_quote": "The uniform resource locator (URL) is an address—similar to a postal address—that directs the user to a unique location or page on the World Wide Web.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "section": "1.3_cloud_iot",
+    "question": "How can users quickly access frequently visited websites in a web browser?",
+    "expected_answer": "By bookmarking or favoriting websites.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 30,
+    "evidence_quote": "You can also bookmark/favorite websites that you frequent for quick access",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "section": "1.3_cloud_iot",
+    "question": "Which email programs lead the market and are integrated with other productivity products?",
+    "expected_answer": "Gmail from Google and Outlook by Microsoft lead the market.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 34,
+    "evidence_quote": "Gmail from Google and Outlook by Microsoft led the email market. These programs are directly integrated into their other products to aid in communication and collaboration between users.",
+    "filter": {
+      "section": "1.3_cloud_iot"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "section": "1.3_cloud_iot",
+    "question": "How does cloud storage lower IT costs for businesses?",
+    "expected_answer": "Subscription fees for cloud services include troubleshooting and technical assistance.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 38,
+    "evidence_quote": "lower their IT costs because the subscription fee for use of the cloud service includes many troubleshooting and technical assistance functions.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "section": "1.4_security_ethics",
+    "question": "What is phishing in computer security?",
+    "expected_answer": "Phishing lures users to provide personal credentials through hoax emails/sites.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 41,
+    "evidence_quote": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is called phishing.",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "section": "1.4_security_ethics",
+    "question": "What are internet cookies and what do they track?",
+    "expected_answer": "Cookies are small data files deposited on user hard disks that keep track of browsing and search history.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 42,
+    "evidence_quote": "Small data files that are deposited on user hard disks from websites you visit are called cookies.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "section": "1.4_security_ethics",
+    "question": "How should a company manage internal security regarding employee access?",
+    "expected_answer": "A company should establish policies and protocols to ensure data security compliance and limit employee access.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 44,
+    "evidence_quote": "Internally, a company should establish policies and protocols to ensure employees are abiding by data security measures.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "section": "1.1_history",
+    "question": "What was the Jacquard loom an early example of in computing history?",
+    "expected_answer": "Jacquard's loom performed calculations using a punch card system as an early precursor.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 3,
+    "evidence_quote": "Jacquard’s loom, which performed calculations using a punch card system, was an early development",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "section": "1.2_hardware_network",
+    "question": "What allows users to save information outside of the computer unit for portable use?",
+    "expected_answer": "External/portable storage drives.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 24,
+    "evidence_quote": "allowing the user to save information outside of the computer unit for use elsewhere.",
+    "filter": {
+      "section": "1.2_hardware_network"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "section": "1.3_cloud_iot",
+    "question": "What older backup media is no longer necessary when using cloud storage?",
+    "expected_answer": "CDs and flash drives are no longer needed to store backups or transport files.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 38,
+    "evidence_quote": "backups of the system or flash drives to transport documents from one computer to another.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "section": "1.4_security_ethics",
+    "question": "What is spoofing in the context of email and communication scams?",
+    "expected_answer": "Spoofing is communication that masquerades as coming from a legitimate, trusted source.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 41,
+    "evidence_quote": "Spoofing is communication (usually an email) that on the surface looks to be legitimate from a trusted source.",
+    "filter": {
+      "section": "1.4_security_ethics"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "section": "1.4_security_ethics",
+    "question": "Why do websites store cookies on a user's computer?",
+    "expected_answer": "To remember user preferences, track browsing history, and collect marketing information.",
+    "gold_source_id": "openstax-workplace-skills-ch01",
+    "gold_page": 42,
+    "evidence_quote": "They keep track of your browsing and search history, collecting information about your potential interests",
+    "filter": null
+  }
+]

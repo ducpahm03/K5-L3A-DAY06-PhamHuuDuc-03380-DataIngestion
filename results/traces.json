@@ -1,0 +1,2438 @@
+{
+  "strategy_a": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "What early machine used punch cards to perform calculations and tabulate data in 1889?",
+      "gold_page": 3,
+      "evidence_quote": "Herman Hollerith’s punch-card tabulating machine, for which he was awarded a patent in 1889.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_fix_000",
+          "page": 3,
+          "score": 0.7097364722392114,
+          "text_snippet": "computing companies. \nFigure 1.3 (a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as \nwas (b) Herman Hollerith’s punch-card tabulatin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_fix_005",
+          "page": 2,
+          "score": 0.6942895272645266,
+          "text_snippet": "Marie Jacquard, a textile merchant, developed a machine to automatically weave designs in fabric using \na punch card system, as you can see in Figure 1.3. This punch card system laid the foundation fo...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_fix_001",
+          "page": 3,
+          "score": 0.6650199368361143,
+          "text_snippet": "Public Domain; credit b: modification of work “Holerith395782Figures1-6” by Herman Hollerith/\nWikimedia Commons, Public Domain; credit c: modification of work “2punchCards” by José Antonio González Ni...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Who was Grace Hopper and what computer did she work with in 1960?",
+      "gold_page": 4,
+      "evidence_quote": "Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p4_fix_000",
+          "page": 4,
+          "score": 0.7158613835069024,
+          "text_snippet": "Figure 1.4 Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics and went on to an illustrious \ncareer in computer science. (credit: “Grace Hopper and UNIVAC” by Publi...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_fix_005",
+          "page": 3,
+          "score": 0.679524497548039,
+          "text_snippet": "is thanks, in large part, to mathematician and \nU.S. Navy Admiral Grace Hopper (Figure 1.4). Hopper’s PhD in mathematics from Yale, along with her naval \ncareer working on technology to aid the war ef...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p4_fix_002",
+          "page": 4,
+          "score": 0.6656163623854393,
+          "text_snippet": "d in the military as a woman working in STEM. \nShe was also a member of the first group of women to be granted a PhD in mathematics from Yale \nUniversity. Hopper’s work in computer science had a profo...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "How have nontechnical industries like agriculture adopted computing technology?",
+      "gold_page": 8,
+      "evidence_quote": "for example, farmers can control irrigation and monitor field conditions.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p8_fix_000",
+          "page": 8,
+          "score": 0.7896721303016254,
+          "text_snippet": "• paperless documentation systems for recordkeeping \n• high-speed printers/copiers \n• automated inventory systems \nIndustries that are traditionally considered nontechnical have also embraced improvem...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p8_fix_003",
+          "page": 8,
+          "score": 0.713361152226834,
+          "text_snippet": "online purchase experience and home delivery. The use of technology in the auto industry can be \nseen at all stages of the business cycle. \nFigure 1.9 Google’s Waymo, a self-driving car, can navigate ...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_fix_004",
+          "page": 2,
+          "score": 0.6942723210556897,
+          "text_snippet": "ution of computing to provide some context and appreciation for the \nfield itself and to show its importance not just for today’s workplace, but also to give you a sense of where \ncomputing is heading...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "What are the two dominant operating systems running smartphones today?",
+      "gold_page": 12,
+      "evidence_quote": "two operating systems that run iPhones and Android devices (such as Samsung’s Galaxy phones), respectively, have similar performance capabilities",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p11_fix_007",
+          "page": 11,
+          "score": 0.7298641692175218,
+          "text_snippet": "ponents (more on these later in the chapter). The second most popular operating system to emerge \nduring this time was the Android operating system, first developed in 2005 and later acquired by Googl...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p12_fix_000",
+          "page": 12,
+          "score": 0.693064056110053,
+          "text_snippet": "LINK TO LEARNING \nIt seems that people are either iPhone users or Android device users, with an unwillingness to shift \nplatforms. Although the two operating systems that run iPhones and Android devic...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p12_fix_001",
+          "page": 12,
+          "score": 0.6740916012990246,
+          "text_snippet": "tible with each device. Read this article on the differences between Android and iOS \n(https://openstax.org/r/78AndroidiOS) to learn more. Which operating system do you prefer? Why? \nThe adoption of m...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "How fast do computers typically double their capabilities according to historical trends?",
+      "gold_page": 16,
+      "evidence_quote": "Computers today typically double their capabilities in less than two years.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p16_fix_000",
+          "page": 16,
+          "score": 0.7869383455039576,
+          "text_snippet": "Figure 1.15 (a) Historically, the rate of adoption for new technologies has taken decades. (b) Now, new products to the market reach \nmore than a 50 percent adoption rate in just a few years. (credit ...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p7_fix_005",
+          "page": 7,
+          "score": 0.6689371813807062,
+          "text_snippet": "es are laptops \nless than one inch thick, equipped with high-speed connectivity, high-quality graphics, and touchscreen \ncapabilities. Computing power today has increased nearly 1 trillion percent sin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p16_fix_001",
+          "page": 16,
+          "score": 0.6656980004624027,
+          "text_snippet": "f change is increasing exponentially \nbecause companies are building on existing technologies. Researchers can take what has worked well to \nrapidly refine and enhance technologies for innovations and...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "What are hardwired instructions needed before an operating system loads called?",
+      "gold_page": 24,
+      "evidence_quote": "operating system loads and is ready to use, the computer needs hardwired instructions, called read-only memory (ROM).",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_fix_000",
+          "page": 24,
+          "score": 0.716322692524602,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p22_fix_001",
+          "page": 22,
+          "score": 0.6151519185939577,
+          "text_snippet": "from early efforts, they include the same core \nfeatures. A computer is simply a programmable machine that can execute predefined lists of instructions and \nrespond to new instructions. A very large c...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_fix_002",
+          "page": 23,
+          "score": 0.6135065808392298,
+          "text_snippet": "res that support \neveryday personal use. They are even more portable than laptops, and their touch screens, which don’t require \na mouse, are their distinguishing feature. \nOperating Systems \nAs state...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Why should businesses procure computers with sufficient RAM?",
+      "gold_page": 24,
+      "evidence_quote": "Businesses should be sure to procure computers with sufficient RAM and to make sure",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_fix_000",
+          "page": 24,
+          "score": 0.7797053344649145,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_fix_001",
+          "page": 24,
+          "score": 0.7650877284689824,
+          "text_snippet": ". Computers with less RAM are slower and can hinder work productivity in the workplace. Often \nbusinesses will begin with less RAM and eventually upgrade to higher levels as their business and needs \n...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_fix_005",
+          "page": 23,
+          "score": 0.6757007264608152,
+          "text_snippet": "inesses take great care in procuring computers that can handle the work that needs to get done. Before \nselecting computers, they’ll investigate some basic functions that have to do with how fast the ...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "What does HTML provide for web pages?",
+      "gold_page": 28,
+      "evidence_quote": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes such as the font size and background colors of the displayed page.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_fix_000",
+          "page": 28,
+          "score": 0.7173979361946339,
+          "text_snippet": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes \nsuch as the font size and background colors of the displayed page. The uniform resource l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_fix_004",
+          "page": 28,
+          "score": 0.6956213962075268,
+          "text_snippet": "sed to create web pages. The information is contained behind the scenes and is used to format \ntext and the layout of the page. Read this article about HTML and the process used (https://openstax.org/...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p49_fix_003",
+          "page": 49,
+          "score": 0.6394641100022077,
+          "text_snippet": "ormatting. \na. HTTP \nb. HTML \nc. URL \nd. IP address \n1 • Chapter Review 55",
+          "section": "1.5_review"
+        }
+      ]
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "What is a Uniform Resource Locator (URL)?",
+      "gold_page": 28,
+      "evidence_quote": "The uniform resource locator (URL) is an address—similar to a postal address—that directs the user to a unique location or page on the World Wide Web.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_fix_000",
+          "page": 28,
+          "score": 0.662705895117603,
+          "text_snippet": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes \nsuch as the font size and background colors of the displayed page. The uniform resource l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p49_fix_003",
+          "page": 49,
+          "score": 0.6172510620512701,
+          "text_snippet": "ormatting. \na. HTTP \nb. HTML \nc. URL \nd. IP address \n1 • Chapter Review 55",
+          "section": "1.5_review"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p45_fix_006",
+          "page": 45,
+          "score": 0.6125724147610525,
+          "text_snippet": "files and retrieve data and programs \nhardware computer accessories such as keyboard, mouse, printer, and computer monitor \nHTTPS communication protocol that is more secure than HTTP \nhub device that ...",
+          "section": "1.5_review"
+        }
+      ]
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "How can users quickly access frequently visited websites in a web browser?",
+      "gold_page": 30,
+      "evidence_quote": "You can also bookmark/favorite websites that you frequent for quick access",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p29_fix_005",
+          "page": 29,
+          "score": 0.6987545535522612,
+          "text_snippet": "rch engine when you open the Chrome program. \nMost browsers include a bookmark feature, and it may be helpful to bookmark/favorite pages that you visit \nfrequently or want to remember for quick access...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p30_fix_000",
+          "page": 30,
+          "score": 0.6835758186000966,
+          "text_snippet": "Figure 1.24 To use a browser, type the website URL address into the navigation bar. Here, we’ve typed www.google.com to get to \nGoogle’s famous search page. You can also bookmark/favorite websites tha...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p29_fix_004",
+          "page": 29,
+          "score": 0.6592426456934825,
+          "text_snippet": "nd Firefox. The browser, once opened, will take you to where \nyou want to go online. You can go directly to a web page by typing its URL in the navigation bar at the top of \nthe browser. However, many...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Which email programs lead the market and are integrated with other productivity products?",
+      "gold_page": 34,
+      "evidence_quote": "Gmail from Google and Outlook by Microsoft led the email market. These programs are directly integrated into their other products to aid in communication and collaboration between users.",
+      "filter": {
+        "section": "1.3_cloud_iot"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p34_fix_000",
+          "page": 34,
+          "score": 0.7229812354508257,
+          "text_snippet": "ARPANET. Today, we have many options when it comes to our email service. Gmail from Google and Outlook \nby Microsoft led the email market. These programs are directly integrated into their other produ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p33_fix_008",
+          "page": 33,
+          "score": 0.6808279855301156,
+          "text_snippet": "Media \nThrough the internet and the software programs available today, we can stay connected to colleagues and \nfamily across great distances. Email, the Google Workspace of programs, Microsoft 365, a...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p39_fix_003",
+          "page": 39,
+          "score": 0.628956149607987,
+          "text_snippet": "nd the scenes for Google and Microsoft programs, so \nif you are using Gmail or Outlook, you are using the cloud. Likewise, if you use Google Photos to store family \nmemories, you are using the cloud. ...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "How does cloud storage lower IT costs for businesses?",
+      "gold_page": 38,
+      "evidence_quote": "lower their IT costs because the subscription fee for use of the cloud service includes many troubleshooting and technical assistance functions.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_fix_000",
+          "page": 38,
+          "score": 0.7545426051955164,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p37_fix_006",
+          "page": 37,
+          "score": 0.7326311288878007,
+          "text_snippet": "e distinct cost advantages to businesses. Companies can save money by not having to constantly upgrade \n1.3 • The Internet, Cloud Computing, and the Internet of Things 43",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_fix_007",
+          "page": 38,
+          "score": 0.7133469275458318,
+          "text_snippet": "manage their information technology needs. Through the \ncloud, businesses can more efficiently analyze, manage, and store data. They are able to deliver software to \ntheir employees on demand and make...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "What is phishing in computer security?",
+      "gold_page": 41,
+      "evidence_quote": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is called phishing.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_fix_000",
+          "page": 41,
+          "score": 0.7108878383639736,
+          "text_snippet": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is \ncalled phishing. Phishing lures users to provide their personal information and login ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_fix_007",
+          "page": 25,
+          "score": 0.6937444916488222,
+          "text_snippet": "cross the network. \nUsers should be very careful when opening files sent to them in email or when clicking links to unfamiliar \nwebsites. Phishing scams are very common. These are attempts by hackers ...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_fix_008",
+          "page": 25,
+          "score": 0.6565941474301307,
+          "text_snippet": "ways best to avoid logging into accounts through links sent in email, clicking on links that are not secure \nor recognizable, or opening files unless you know who the sender is and what is being sent....",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "What are internet cookies and what do they track?",
+      "gold_page": 42,
+      "evidence_quote": "Small data files that are deposited on user hard disks from websites you visit are called cookies.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_fix_000",
+          "page": 42,
+          "score": 0.7469716205541279,
+          "text_snippet": "advertisements for that product, or that a store website now displays that product on its front page? For that, \nyou can thank cookies. Small data files that are deposited on user hard disks from webs...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_fix_002",
+          "page": 42,
+          "score": 0.6994868334134386,
+          "text_snippet": "cookies on certain sites depending on your own preferences. \nBrowsing History \nYour browsing history includes all websites you may have visited, as well as any actions you may have taken on \nthose web...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_fix_001",
+          "page": 42,
+          "score": 0.6767744415335597,
+          "text_snippet": "ed, depending on a company’s privacy policy. The potential risk of cookies is that they can store \ninformation about the user, user preferences, and user browsing habits. That said, they can also save...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "How should a company manage internal security regarding employee access?",
+      "gold_page": 44,
+      "evidence_quote": "Internally, a company should establish policies and protocols to ensure employees are abiding by data security measures.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p44_fix_000",
+          "page": 44,
+          "score": 0.7746362299201213,
+          "text_snippet": "Companies must ensure both internal and external security. Internally, a company should establish policies \nand protocols to ensure employees are abiding by data security measures. A company should al...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p44_fix_001",
+          "page": 44,
+          "score": 0.6718138577364118,
+          "text_snippet": "ys qualified professionals dedicated to data security. \nThere are a number of strategies a company can use to keep data secure. Encrypting the data will render \ninformation unreadable to unauthorized ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p43_fix_005",
+          "page": 43,
+          "score": 0.6409734921579483,
+          "text_snippet": "it should not be used for. Just as individuals must ensure they protect their \ninformation from hackers and malicious intent, companies are responsible for ensuring they use the most up-to-date data s...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "What was the Jacquard loom an early example of in computing history?",
+      "gold_page": 3,
+      "evidence_quote": "Jacquard’s loom, which performed calculations using a punch card system, was an early development",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_fix_000",
+          "page": 3,
+          "score": 0.7541260714217337,
+          "text_snippet": "computing companies. \nFigure 1.3 (a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as \nwas (b) Herman Hollerith’s punch-card tabulatin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_fix_004",
+          "page": 2,
+          "score": 0.7284594319095274,
+          "text_snippet": "ution of computing to provide some context and appreciation for the \nfield itself and to show its importance not just for today’s workplace, but also to give you a sense of where \ncomputing is heading...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_fix_005",
+          "page": 2,
+          "score": 0.7189942175166231,
+          "text_snippet": "Marie Jacquard, a textile merchant, developed a machine to automatically weave designs in fabric using \na punch card system, as you can see in Figure 1.3. This punch card system laid the foundation fo...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "What allows users to save information outside of the computer unit for portable use?",
+      "gold_page": 24,
+      "evidence_quote": "allowing the user to save information outside of the computer unit for use elsewhere.",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_fix_000",
+          "page": 24,
+          "score": 0.7463311114497557,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p45_fix_007",
+          "page": 45,
+          "score": 0.6866149403736448,
+          "text_snippet": "that allow users to access information on the internet and protect \nconfidential data such as credit card numbers \ninformation processing cycle sequence of events involved in processing information \ni...",
+          "section": "1.5_review"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_fix_009",
+          "page": 23,
+          "score": 0.6747721105608981,
+          "text_snippet": "ograms. There \nare two types of hard disks, internal and external. An internal disk drive is housed within the computer unit, \nand users update and produce copies of all files they need. Figure 1.21 s...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "What older backup media is no longer necessary when using cloud storage?",
+      "gold_page": 38,
+      "evidence_quote": "backups of the system or flash drives to transport documents from one computer to another.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_fix_000",
+          "page": 38,
+          "score": 0.6885577606147473,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p36_fix_002",
+          "page": 36,
+          "score": 0.656173959961444,
+          "text_snippet": "sociated with it are stored on the internet, and the application is accessed through a \nbrowser or app rather than through an installed program on the computer. In the past, users had to purchase \na l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p39_fix_003",
+          "page": 39,
+          "score": 0.6488240815213251,
+          "text_snippet": "nd the scenes for Google and Microsoft programs, so \nif you are using Gmail or Outlook, you are using the cloud. Likewise, if you use Google Photos to store family \nmemories, you are using the cloud. ...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "What is spoofing in the context of email and communication scams?",
+      "gold_page": 41,
+      "evidence_quote": "Spoofing is communication (usually an email) that on the surface looks to be legitimate from a trusted source.",
+      "filter": {
+        "section": "1.4_security_ethics"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_fix_000",
+          "page": 41,
+          "score": 0.7750596793886138,
+          "text_snippet": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is \ncalled phishing. Phishing lures users to provide their personal information and login ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p46_fix_007",
+          "page": 46,
+          "score": 0.6408386423191984,
+          "text_snippet": "nizations) to share information about \nthemselves such as posts, photos, and videos \nsoftware computer program or set of programs with the end goal of converting data into processes or \nactions \nspoof...",
+          "section": "1.5_review"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_fix_007",
+          "page": 25,
+          "score": 0.639416505601532,
+          "text_snippet": "cross the network. \nUsers should be very careful when opening files sent to them in email or when clicking links to unfamiliar \nwebsites. Phishing scams are very common. These are attempts by hackers ...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Why do websites store cookies on a user's computer?",
+      "gold_page": 42,
+      "evidence_quote": "They keep track of your browsing and search history, collecting information about your potential interests",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_fix_000",
+          "page": 42,
+          "score": 0.7382038735793062,
+          "text_snippet": "advertisements for that product, or that a store website now displays that product on its front page? For that, \nyou can thank cookies. Small data files that are deposited on user hard disks from webs...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_fix_001",
+          "page": 42,
+          "score": 0.7307031385955478,
+          "text_snippet": "ed, depending on a company’s privacy policy. The potential risk of cookies is that they can store \ninformation about the user, user preferences, and user browsing habits. That said, they can also save...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_fix_002",
+          "page": 42,
+          "score": 0.6766577948085317,
+          "text_snippet": "cookies on certain sites depending on your own preferences. \nBrowsing History \nYour browsing history includes all websites you may have visited, as well as any actions you may have taken on \nthose web...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    }
+  ],
+  "strategy_b": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "What early machine used punch cards to perform calculations and tabulate data in 1889?",
+      "gold_page": 3,
+      "evidence_quote": "Herman Hollerith’s punch-card tabulating machine, for which he was awarded a patent in 1889.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_para_003",
+          "page": 2,
+          "score": 0.7064146992752112,
+          "text_snippet": "quantity of numbers. The early \ncomputers essentially were developed to be “data crunchers.” Their origins date back to the 1800s in France. \nJoseph Marie Jacquard, a textile merchant, developed a mac...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_000",
+          "page": 3,
+          "score": 0.7047232741027207,
+          "text_snippet": "computing companies. \nFigure 1.3 (a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as \nwas (b) Herman Hollerith’s punch-card tabulatin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_001",
+          "page": 3,
+          "score": 0.6115924678405156,
+          "text_snippet": "puter (in the modern sense of the term) was the Z1, designed and built in the late 1930s by \nKonrad Zuse of Germany. This machine was motor-driven, programmable, and weighed over 2,000 pounds, \nabout ...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Who was Grace Hopper and what computer did she work with in 1960?",
+      "gold_page": 4,
+      "evidence_quote": "Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p4_para_000",
+          "page": 4,
+          "score": 0.707284390389887,
+          "text_snippet": "Figure 1.4 Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics and went on to an illustrious \ncareer in computer science. (credit: “Grace Hopper and UNIVAC” by Publi...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_003",
+          "page": 3,
+          "score": 0.6775465422784324,
+          "text_snippet": "computer coding became easier to learn and write, especially for those in the business \nworld who did not have mathematics or engineering degrees. It is thanks, in large part, to mathematician and \nU....",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p4_para_001",
+          "page": 4,
+          "score": 0.6225847611477848,
+          "text_snippet": "ees awarded in \nchemistry, math, and physics were granted to females, and even today, that number has only risen to just \nunder 20 percent. \nGrace Hopper was a pioneer in the computer science field an...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "How have nontechnical industries like agriculture adopted computing technology?",
+      "gold_page": 8,
+      "evidence_quote": "for example, farmers can control irrigation and monitor field conditions.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p8_para_000",
+          "page": 8,
+          "score": 0.7804692269364651,
+          "text_snippet": "• paperless documentation systems for recordkeeping \n• high-speed printers/copiers \n• automated inventory systems \nIndustries that are traditionally considered nontechnical have also embraced improvem...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p8_para_002",
+          "page": 8,
+          "score": 0.7139695642549597,
+          "text_snippet": "use of technology in the auto industry can be \nseen at all stages of the business cycle. \nFigure 1.9 Google’s Waymo, a self-driving car, can navigate roads, maintain safe speeds, and see obstacles in ...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p10_para_000",
+          "page": 10,
+          "score": 0.6711076258070644,
+          "text_snippet": "REAL-WORLD APPLICATION \nTechnology and Food Trucks \nFood trucks have been growing in popularity in the early decades of the twenty-first century. In fact, the \nfood truck industry has grown at a faste...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "What are the two dominant operating systems running smartphones today?",
+      "gold_page": 12,
+      "evidence_quote": "two operating systems that run iPhones and Android devices (such as Samsung’s Galaxy phones), respectively, have similar performance capabilities",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        3
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p11_para_004",
+          "page": 11,
+          "score": 0.7383124796500617,
+          "text_snippet": "as a luxury and more as a need. \nApple’s introduction of the iPhone in 2008 had a major impact on the market. With this introduction came the \niPhone operating system (iOS), exclusive to Apple. An ope...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p11_para_005",
+          "page": 11,
+          "score": 0.7004739929728445,
+          "text_snippet": "2, the Android operating system had a majority share of the market \nworldwide (nearly 72 percent). Today, nearly 90 percent of Americans own a cell phone; of those, nearly 60 \npercent are smartphones....",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p12_para_000",
+          "page": 12,
+          "score": 0.6761878904977592,
+          "text_snippet": "LINK TO LEARNING \nIt seems that people are either iPhone users or Android device users, with an unwillingness to shift \nplatforms. Although the two operating systems that run iPhones and Android devic...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "How fast do computers typically double their capabilities according to historical trends?",
+      "gold_page": 16,
+      "evidence_quote": "Computers today typically double their capabilities in less than two years.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p16_para_000",
+          "page": 16,
+          "score": 0.7675766846510949,
+          "text_snippet": "Figure 1.15 (a) Historically, the rate of adoption for new technologies has taken decades. (b) Now, new products to the market reach \nmore than a 50 percent adoption rate in just a few years. (credit ...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p15_para_005",
+          "page": 15,
+          "score": 0.6504098307132464,
+          "text_snippet": ".15, older technologies such as refrigerators and landlines took decades to reach widespread adoption \nwith a majority of Americans buying them, while today’s smartphones and tablets achieve broad ado...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p16_para_001",
+          "page": 16,
+          "score": 0.6499521242073154,
+          "text_snippet": "s the world—both financial resources and human capital—are being pumped into supporting these \ntechnological advances. To put the popularity of computer technology into perspective, consider how long ...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "What are hardwired instructions needed before an operating system loads called?",
+      "gold_page": 24,
+      "evidence_quote": "operating system loads and is ready to use, the computer needs hardwired instructions, called read-only memory (ROM).",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_para_000",
+          "page": 24,
+          "score": 0.6866214132724158,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_002",
+          "page": 23,
+          "score": 0.6192799038139885,
+          "text_snippet": "humans to \ncommunicate with the computer and all its components. Here is where the big players enter the computing \nscene: Microsoft Windows, Apple macOS, and Google’s Android OS, to name a few. Linux...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p45_para_001",
+          "page": 45,
+          "score": 0.6109928871410465,
+          "text_snippet": "operates in the background, holding data that can be quickly \nretrieved \ncentral processing unit (CPU) unit that contains the microprocessor, or “brains” of a computer system \nclient device that reque...",
+          "section": "1.5_review"
+        }
+      ]
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Why should businesses procure computers with sufficient RAM?",
+      "gold_page": 24,
+      "evidence_quote": "Businesses should be sure to procure computers with sufficient RAM and to make sure",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_para_000",
+          "page": 24,
+          "score": 0.7407871586933124,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_003",
+          "page": 23,
+          "score": 0.6515571378059823,
+          "text_snippet": "ikely to see these operating systems in use daily, both in the \nworkplace and in your personal life. \nInformation Processing, Storage, and Memory \nBusinesses take great care in procuring computers tha...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_000",
+          "page": 38,
+          "score": 0.6367793690275196,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "What does HTML provide for web pages?",
+      "gold_page": 28,
+      "evidence_quote": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes such as the font size and background colors of the displayed page.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_para_000",
+          "page": 28,
+          "score": 0.6986220266814681,
+          "text_snippet": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes \nsuch as the font size and background colors of the displayed page. The uniform resource l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p27_para_004",
+          "page": 27,
+          "score": 0.6459895475303297,
+          "text_snippet": "ology to \n“dial up” internet access through a specific provider. Because the internet was established primarily for military \nuse, access to the technology was highly restricted, limited to specific u...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_para_001",
+          "page": 28,
+          "score": 0.631051944607097,
+          "text_snippet": "for the \ninformation stored on the WWW. Marc Andreessen, a student at the University of Illinois, developed it. One key \nfeature of Mosaic was the ability to include images as well as text on a web pa...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "What is a Uniform Resource Locator (URL)?",
+      "gold_page": 28,
+      "evidence_quote": "The uniform resource locator (URL) is an address—similar to a postal address—that directs the user to a unique location or page on the World Wide Web.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p27_para_005",
+          "page": 27,
+          "score": 0.6869210886857771,
+          "text_snippet": "ource locator (URL) were developed \nto give the average person access to the web of information. This really was the birth of the World Wide Web. \n1.3 • The Internet, Cloud Computing, and the Internet...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_para_000",
+          "page": 28,
+          "score": 0.653008705793174,
+          "text_snippet": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes \nsuch as the font size and background colors of the displayed page. The uniform resource l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p27_para_001",
+          "page": 27,
+          "score": 0.6096250030168827,
+          "text_snippet": "With these rules, a unique internet protocol address (IP address) allowed users to \ndetermine the geographic location of any computer on the network. The IP address was also used to direct the \ntransm...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "How can users quickly access frequently visited websites in a web browser?",
+      "gold_page": 30,
+      "evidence_quote": "You can also bookmark/favorite websites that you frequent for quick access",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p29_para_003",
+          "page": 29,
+          "score": 0.6854526198996796,
+          "text_snippet": "will allow you to search the internet for content you want to locate or research. Chrome, \nfor example, will automatically navigate to the Google search engine when you open the Chrome program. \nMost ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p30_para_000",
+          "page": 30,
+          "score": 0.6667790600653174,
+          "text_snippet": "Figure 1.24 To use a browser, type the website URL address into the navigation bar. Here, we’ve typed www.google.com to get to \nGoogle’s famous search page. You can also bookmark/favorite websites tha...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p29_para_002",
+          "page": 29,
+          "score": 0.6555406729176463,
+          "text_snippet": "s. These are just a couple of \nexamples of the efforts worldwide to make the internet more accessible for all. \nUsing the Internet \nUsing the internet today is much simpler than it was even as recentl...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Which email programs lead the market and are integrated with other productivity products?",
+      "gold_page": 34,
+      "evidence_quote": "Gmail from Google and Outlook by Microsoft led the email market. These programs are directly integrated into their other products to aid in communication and collaboration between users.",
+      "filter": {
+        "section": "1.3_cloud_iot"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p34_para_000",
+          "page": 34,
+          "score": 0.7015723019810632,
+          "text_snippet": "ARPANET. Today, we have many options when it comes to our email service. Gmail from Google and Outlook \nby Microsoft led the email market. These programs are directly integrated into their other produ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p33_para_005",
+          "page": 33,
+          "score": 0.6521109065265702,
+          "text_snippet": "n the information shared over the internet is \nimportant. \nCommunication, Collaboration, and Social Media \nThrough the internet and the software programs available today, we can stay connected to coll...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p39_para_002",
+          "page": 39,
+          "score": 0.6242813848521778,
+          "text_snippet": "o \nif you are using Gmail or Outlook, you are using the cloud. Likewise, if you use Google Photos to store family \nmemories, you are using the cloud. And if your family members play video games, strea...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "How does cloud storage lower IT costs for businesses?",
+      "gold_page": 38,
+      "evidence_quote": "lower their IT costs because the subscription fee for use of the cloud service includes many troubleshooting and technical assistance functions.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_000",
+          "page": 38,
+          "score": 0.757618903580912,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p37_para_003",
+          "page": 37,
+          "score": 0.690008735862899,
+          "text_snippet": "29 Cloud computing enables you to store much more data than can be kept on any physical computing device. (credit: \n“Cloud-Computing” by Learntek/Flickr, Public Domain) \nThe cloud is the term used to ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_004",
+          "page": 38,
+          "score": 0.6862620579062758,
+          "text_snippet": "businesses to control who gains access to their computer \nnetwork. Using cloud services can offer some of the same security advantages for business. Read this \narticle on VPN and cloud computing (http...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "What is phishing in computer security?",
+      "gold_page": 41,
+      "evidence_quote": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is called phishing.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_para_000",
+          "page": 41,
+          "score": 0.6990401868903574,
+          "text_snippet": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is \ncalled phishing. Phishing lures users to provide their personal information and login ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_para_004",
+          "page": 25,
+          "score": 0.6805982300887561,
+          "text_snippet": "e portal into your computer. \nMalware can also damage files and allow hackers access to files and information stored on your computer. \nDepending on how these programs are written, they may only damag...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_para_005",
+          "page": 25,
+          "score": 0.658777857739888,
+          "text_snippet": "en occurs through email that appears to come from a reputable source, or via social media. It is \nalways best to avoid logging into accounts through links sent in email, clicking on links that are not...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "What are internet cookies and what do they track?",
+      "gold_page": 42,
+      "evidence_quote": "Small data files that are deposited on user hard disks from websites you visit are called cookies.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_000",
+          "page": 42,
+          "score": 0.7471283382167865,
+          "text_snippet": "advertisements for that product, or that a store website now displays that product on its front page? For that, \nyou can thank cookies. Small data files that are deposited on user hard disks from webs...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_001",
+          "page": 42,
+          "score": 0.6875695828197441,
+          "text_snippet": "wsing preferences, allowing internet pages to load faster than if you \nhad loaded them the first time. Regardless of convenience, it is a good idea to clear cookies from time to time \nand to restrict ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_002",
+          "page": 42,
+          "score": 0.6445612285766803,
+          "text_snippet": "your browsing history \nfrom your personal computer on a regular basis. Be aware that your employer may also collect this \ninformation; while using a work computer, you should avoid visiting websites t...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "How should a company manage internal security regarding employee access?",
+      "gold_page": 44,
+      "evidence_quote": "Internally, a company should establish policies and protocols to ensure employees are abiding by data security measures.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p44_para_000",
+          "page": 44,
+          "score": 0.7635507854582112,
+          "text_snippet": "Companies must ensure both internal and external security. Internally, a company should establish policies \nand protocols to ensure employees are abiding by data security measures. A company should al...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p40_para_001",
+          "page": 40,
+          "score": 0.6394771535116436,
+          "text_snippet": "ow the evolution of computing has led to your present-day status as a new \nemployee. You’re getting the hang of how computers are put together, how they have changed the business \nlandscape, and how y...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p7_para_004",
+          "page": 7,
+          "score": 0.6380631120801674,
+          "text_snippet": "sses may \ninclude: \n• direct deposit of paychecks \n• key card building access \n• shared company computer drives for document storage \n1.1 • Computing from Inception to Today 13",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "What was the Jacquard loom an early example of in computing history?",
+      "gold_page": 3,
+      "evidence_quote": "Jacquard’s loom, which performed calculations using a punch card system, was an early development",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_000",
+          "page": 3,
+          "score": 0.7280154209499745,
+          "text_snippet": "computing companies. \nFigure 1.3 (a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as \nwas (b) Herman Hollerith’s punch-card tabulatin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_para_003",
+          "page": 2,
+          "score": 0.7211761552826563,
+          "text_snippet": "quantity of numbers. The early \ncomputers essentially were developed to be “data crunchers.” Their origins date back to the 1800s in France. \nJoseph Marie Jacquard, a textile merchant, developed a mac...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p48_para_004",
+          "page": 48,
+          "score": 0.6394603928285092,
+          "text_snippet": "nagement, \ndata erasure, and data masking. \n Review Questions \n1 . What nineteenth-century invention laid the foundation for future developments in computing? \na. Jacquard’s loom \nb. Apple’s Macintosh...",
+          "section": "1.5_review"
+        }
+      ]
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "What allows users to save information outside of the computer unit for portable use?",
+      "gold_page": 24,
+      "evidence_quote": "allowing the user to save information outside of the computer unit for use elsewhere.",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_para_000",
+          "page": 24,
+          "score": 0.7221897783691948,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_004",
+          "page": 23,
+          "score": 0.7014479291206209,
+          "text_snippet": "organize, interpret, or otherwise \nmake use of the information input into the computer. \n• Output entails viewing this processed information in a way that makes sense to the user, either through \nthe ...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_005",
+          "page": 23,
+          "score": 0.6889195605125786,
+          "text_snippet": "as it is being used. Secondary storage is \nconsidered permanent storage on a computer system or removable device, such as the old floppy disks. You \nmay also be familiar with another type of memory—ca...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "What older backup media is no longer necessary when using cloud storage?",
+      "gold_page": 38,
+      "evidence_quote": "backups of the system or flash drives to transport documents from one computer to another.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_000",
+          "page": 38,
+          "score": 0.6779906631274639,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p37_para_002",
+          "page": 37,
+          "score": 0.6290904115710934,
+          "text_snippet": "stored on individual computers, including \nsoftware programs, data management and storage systems, and networking tools, are moved to internet \nservers. This technological advance was prompted by the ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_004",
+          "page": 38,
+          "score": 0.6249217813926495,
+          "text_snippet": "businesses to control who gains access to their computer \nnetwork. Using cloud services can offer some of the same security advantages for business. Read this \narticle on VPN and cloud computing (http...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "What is spoofing in the context of email and communication scams?",
+      "gold_page": 41,
+      "evidence_quote": "Spoofing is communication (usually an email) that on the surface looks to be legitimate from a trusted source.",
+      "filter": {
+        "section": "1.4_security_ethics"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_para_000",
+          "page": 41,
+          "score": 0.7124379489588338,
+          "text_snippet": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is \ncalled phishing. Phishing lures users to provide their personal information and login ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_005",
+          "page": 42,
+          "score": 0.6681966856279636,
+          "text_snippet": "poof accounts that present as a reputable person, when in fact they are attempting to con or \nmislead an individual. Similarly, AI and bots may interact with users, posing as real people when in fact ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_para_004",
+          "page": 25,
+          "score": 0.6273795513466954,
+          "text_snippet": "e portal into your computer. \nMalware can also damage files and allow hackers access to files and information stored on your computer. \nDepending on how these programs are written, they may only damag...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Why do websites store cookies on a user's computer?",
+      "gold_page": 42,
+      "evidence_quote": "They keep track of your browsing and search history, collecting information about your potential interests",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_000",
+          "page": 42,
+          "score": 0.7555098002005133,
+          "text_snippet": "advertisements for that product, or that a store website now displays that product on its front page? For that, \nyou can thank cookies. Small data files that are deposited on user hard disks from webs...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_001",
+          "page": 42,
+          "score": 0.6996539100963862,
+          "text_snippet": "wsing preferences, allowing internet pages to load faster than if you \nhad loaded them the first time. Regardless of convenience, it is a good idea to clear cookies from time to time \nand to restrict ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_para_004",
+          "page": 41,
+          "score": 0.6370592032825702,
+          "text_snippet": "essed or stolen. \nInternet and Web Privacy \nThe internet is pervasive and omnipresent. It is part of all you do in business and in your everyday life. How \npeople conduct themselves online, what they ...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    }
+  ],
+  "strategy_c": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "What early machine used punch cards to perform calculations and tabulate data in 1889?",
+      "gold_page": 3,
+      "evidence_quote": "Herman Hollerith’s punch-card tabulating machine, for which he was awarded a patent in 1889.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_para_003",
+          "page": 2,
+          "score": 0.7064146992752112,
+          "text_snippet": "quantity of numbers. The early \ncomputers essentially were developed to be “data crunchers.” Their origins date back to the 1800s in France. \nJoseph Marie Jacquard, a textile merchant, developed a mac...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_000",
+          "page": 3,
+          "score": 0.7047232741027207,
+          "text_snippet": "computing companies. \nFigure 1.3 (a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as \nwas (b) Herman Hollerith’s punch-card tabulatin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_001",
+          "page": 3,
+          "score": 0.6115924678405156,
+          "text_snippet": "puter (in the modern sense of the term) was the Z1, designed and built in the late 1930s by \nKonrad Zuse of Germany. This machine was motor-driven, programmable, and weighed over 2,000 pounds, \nabout ...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Who was Grace Hopper and what computer did she work with in 1960?",
+      "gold_page": 4,
+      "evidence_quote": "Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p4_para_000",
+          "page": 4,
+          "score": 0.707284390389887,
+          "text_snippet": "Figure 1.4 Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics and went on to an illustrious \ncareer in computer science. (credit: “Grace Hopper and UNIVAC” by Publi...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_003",
+          "page": 3,
+          "score": 0.6775465422784324,
+          "text_snippet": "computer coding became easier to learn and write, especially for those in the business \nworld who did not have mathematics or engineering degrees. It is thanks, in large part, to mathematician and \nU....",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p4_para_001",
+          "page": 4,
+          "score": 0.6225847611477848,
+          "text_snippet": "ees awarded in \nchemistry, math, and physics were granted to females, and even today, that number has only risen to just \nunder 20 percent. \nGrace Hopper was a pioneer in the computer science field an...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "How have nontechnical industries like agriculture adopted computing technology?",
+      "gold_page": 8,
+      "evidence_quote": "for example, farmers can control irrigation and monitor field conditions.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p8_para_000",
+          "page": 8,
+          "score": 0.7804692269364651,
+          "text_snippet": "• paperless documentation systems for recordkeeping \n• high-speed printers/copiers \n• automated inventory systems \nIndustries that are traditionally considered nontechnical have also embraced improvem...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p8_para_002",
+          "page": 8,
+          "score": 0.7139695642549597,
+          "text_snippet": "use of technology in the auto industry can be \nseen at all stages of the business cycle. \nFigure 1.9 Google’s Waymo, a self-driving car, can navigate roads, maintain safe speeds, and see obstacles in ...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p10_para_000",
+          "page": 10,
+          "score": 0.6711076258070644,
+          "text_snippet": "REAL-WORLD APPLICATION \nTechnology and Food Trucks \nFood trucks have been growing in popularity in the early decades of the twenty-first century. In fact, the \nfood truck industry has grown at a faste...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "What are the two dominant operating systems running smartphones today?",
+      "gold_page": 12,
+      "evidence_quote": "two operating systems that run iPhones and Android devices (such as Samsung’s Galaxy phones), respectively, have similar performance capabilities",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        3
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p11_para_004",
+          "page": 11,
+          "score": 0.7383124796500617,
+          "text_snippet": "as a luxury and more as a need. \nApple’s introduction of the iPhone in 2008 had a major impact on the market. With this introduction came the \niPhone operating system (iOS), exclusive to Apple. An ope...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p11_para_005",
+          "page": 11,
+          "score": 0.7004739929728445,
+          "text_snippet": "2, the Android operating system had a majority share of the market \nworldwide (nearly 72 percent). Today, nearly 90 percent of Americans own a cell phone; of those, nearly 60 \npercent are smartphones....",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p12_para_000",
+          "page": 12,
+          "score": 0.6761878904977592,
+          "text_snippet": "LINK TO LEARNING \nIt seems that people are either iPhone users or Android device users, with an unwillingness to shift \nplatforms. Although the two operating systems that run iPhones and Android devic...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "How fast do computers typically double their capabilities according to historical trends?",
+      "gold_page": 16,
+      "evidence_quote": "Computers today typically double their capabilities in less than two years.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p16_para_000",
+          "page": 16,
+          "score": 0.7675766846510949,
+          "text_snippet": "Figure 1.15 (a) Historically, the rate of adoption for new technologies has taken decades. (b) Now, new products to the market reach \nmore than a 50 percent adoption rate in just a few years. (credit ...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p15_para_005",
+          "page": 15,
+          "score": 0.6504098307132464,
+          "text_snippet": ".15, older technologies such as refrigerators and landlines took decades to reach widespread adoption \nwith a majority of Americans buying them, while today’s smartphones and tablets achieve broad ado...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p16_para_001",
+          "page": 16,
+          "score": 0.6499521242073154,
+          "text_snippet": "s the world—both financial resources and human capital—are being pumped into supporting these \ntechnological advances. To put the popularity of computer technology into perspective, consider how long ...",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "What are hardwired instructions needed before an operating system loads called?",
+      "gold_page": 24,
+      "evidence_quote": "operating system loads and is ready to use, the computer needs hardwired instructions, called read-only memory (ROM).",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_para_000",
+          "page": 24,
+          "score": 0.6866214132724158,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_002",
+          "page": 23,
+          "score": 0.6192799038139885,
+          "text_snippet": "humans to \ncommunicate with the computer and all its components. Here is where the big players enter the computing \nscene: Microsoft Windows, Apple macOS, and Google’s Android OS, to name a few. Linux...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_001",
+          "page": 23,
+          "score": 0.6026561986365075,
+          "text_snippet": "puter and monitor are combined, and peripheral accessories are optional. Tablets, such as the Kindle, are \nsmaller than laptops and have less functionality but are still very powerful, with many featu...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Why should businesses procure computers with sufficient RAM?",
+      "gold_page": 24,
+      "evidence_quote": "Businesses should be sure to procure computers with sufficient RAM and to make sure",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_para_000",
+          "page": 24,
+          "score": 0.7407871586933124,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_003",
+          "page": 23,
+          "score": 0.6515571378059823,
+          "text_snippet": "ikely to see these operating systems in use daily, both in the \nworkplace and in your personal life. \nInformation Processing, Storage, and Memory \nBusinesses take great care in procuring computers tha...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_004",
+          "page": 23,
+          "score": 0.6344638526216216,
+          "text_snippet": "organize, interpret, or otherwise \nmake use of the information input into the computer. \n• Output entails viewing this processed information in a way that makes sense to the user, either through \nthe ...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "What does HTML provide for web pages?",
+      "gold_page": 28,
+      "evidence_quote": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes such as the font size and background colors of the displayed page.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_para_000",
+          "page": 28,
+          "score": 0.6986220266814681,
+          "text_snippet": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes \nsuch as the font size and background colors of the displayed page. The uniform resource l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p27_para_004",
+          "page": 27,
+          "score": 0.6459895475303297,
+          "text_snippet": "ology to \n“dial up” internet access through a specific provider. Because the internet was established primarily for military \nuse, access to the technology was highly restricted, limited to specific u...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_para_001",
+          "page": 28,
+          "score": 0.631051944607097,
+          "text_snippet": "for the \ninformation stored on the WWW. Marc Andreessen, a student at the University of Illinois, developed it. One key \nfeature of Mosaic was the ability to include images as well as text on a web pa...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "What is a Uniform Resource Locator (URL)?",
+      "gold_page": 28,
+      "evidence_quote": "The uniform resource locator (URL) is an address—similar to a postal address—that directs the user to a unique location or page on the World Wide Web.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p27_para_005",
+          "page": 27,
+          "score": 0.6869210886857771,
+          "text_snippet": "ource locator (URL) were developed \nto give the average person access to the web of information. This really was the birth of the World Wide Web. \n1.3 • The Internet, Cloud Computing, and the Internet...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p28_para_000",
+          "page": 28,
+          "score": 0.653008705793174,
+          "text_snippet": "HTML provides the structure on which web pages are based; it is a series of commands that describe attributes \nsuch as the font size and background colors of the displayed page. The uniform resource l...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p27_para_001",
+          "page": 27,
+          "score": 0.6096250030168827,
+          "text_snippet": "With these rules, a unique internet protocol address (IP address) allowed users to \ndetermine the geographic location of any computer on the network. The IP address was also used to direct the \ntransm...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "How can users quickly access frequently visited websites in a web browser?",
+      "gold_page": 30,
+      "evidence_quote": "You can also bookmark/favorite websites that you frequent for quick access",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_ranks": [
+        2
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p29_para_003",
+          "page": 29,
+          "score": 0.6854526198996796,
+          "text_snippet": "will allow you to search the internet for content you want to locate or research. Chrome, \nfor example, will automatically navigate to the Google search engine when you open the Chrome program. \nMost ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p30_para_000",
+          "page": 30,
+          "score": 0.6667790600653174,
+          "text_snippet": "Figure 1.24 To use a browser, type the website URL address into the navigation bar. Here, we’ve typed www.google.com to get to \nGoogle’s famous search page. You can also bookmark/favorite websites tha...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p29_para_002",
+          "page": 29,
+          "score": 0.6555406729176463,
+          "text_snippet": "s. These are just a couple of \nexamples of the efforts worldwide to make the internet more accessible for all. \nUsing the Internet \nUsing the internet today is much simpler than it was even as recentl...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Which email programs lead the market and are integrated with other productivity products?",
+      "gold_page": 34,
+      "evidence_quote": "Gmail from Google and Outlook by Microsoft led the email market. These programs are directly integrated into their other products to aid in communication and collaboration between users.",
+      "filter": {
+        "section": "1.3_cloud_iot"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p34_para_000",
+          "page": 34,
+          "score": 0.7015723019810632,
+          "text_snippet": "ARPANET. Today, we have many options when it comes to our email service. Gmail from Google and Outlook \nby Microsoft led the email market. These programs are directly integrated into their other produ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p33_para_005",
+          "page": 33,
+          "score": 0.6521109065265702,
+          "text_snippet": "n the information shared over the internet is \nimportant. \nCommunication, Collaboration, and Social Media \nThrough the internet and the software programs available today, we can stay connected to coll...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p39_para_002",
+          "page": 39,
+          "score": 0.6242813848521778,
+          "text_snippet": "o \nif you are using Gmail or Outlook, you are using the cloud. Likewise, if you use Google Photos to store family \nmemories, you are using the cloud. And if your family members play video games, strea...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "How does cloud storage lower IT costs for businesses?",
+      "gold_page": 38,
+      "evidence_quote": "lower their IT costs because the subscription fee for use of the cloud service includes many troubleshooting and technical assistance functions.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_000",
+          "page": 38,
+          "score": 0.757618903580912,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p37_para_003",
+          "page": 37,
+          "score": 0.690008735862899,
+          "text_snippet": "29 Cloud computing enables you to store much more data than can be kept on any physical computing device. (credit: \n“Cloud-Computing” by Learntek/Flickr, Public Domain) \nThe cloud is the term used to ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_004",
+          "page": 38,
+          "score": 0.6862620579062758,
+          "text_snippet": "businesses to control who gains access to their computer \nnetwork. Using cloud services can offer some of the same security advantages for business. Read this \narticle on VPN and cloud computing (http...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "What is phishing in computer security?",
+      "gold_page": 41,
+      "evidence_quote": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is called phishing.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_para_000",
+          "page": 41,
+          "score": 0.6990401868903574,
+          "text_snippet": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is \ncalled phishing. Phishing lures users to provide their personal information and login ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_para_004",
+          "page": 25,
+          "score": 0.6805982300887561,
+          "text_snippet": "e portal into your computer. \nMalware can also damage files and allow hackers access to files and information stored on your computer. \nDepending on how these programs are written, they may only damag...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p25_para_005",
+          "page": 25,
+          "score": 0.658777857739888,
+          "text_snippet": "en occurs through email that appears to come from a reputable source, or via social media. It is \nalways best to avoid logging into accounts through links sent in email, clicking on links that are not...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "What are internet cookies and what do they track?",
+      "gold_page": 42,
+      "evidence_quote": "Small data files that are deposited on user hard disks from websites you visit are called cookies.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_000",
+          "page": 42,
+          "score": 0.7471283382167865,
+          "text_snippet": "advertisements for that product, or that a store website now displays that product on its front page? For that, \nyou can thank cookies. Small data files that are deposited on user hard disks from webs...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_001",
+          "page": 42,
+          "score": 0.6875695828197441,
+          "text_snippet": "wsing preferences, allowing internet pages to load faster than if you \nhad loaded them the first time. Regardless of convenience, it is a good idea to clear cookies from time to time \nand to restrict ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_002",
+          "page": 42,
+          "score": 0.6445612285766803,
+          "text_snippet": "your browsing history \nfrom your personal computer on a regular basis. Be aware that your employer may also collect this \ninformation; while using a work computer, you should avoid visiting websites t...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "How should a company manage internal security regarding employee access?",
+      "gold_page": 44,
+      "evidence_quote": "Internally, a company should establish policies and protocols to ensure employees are abiding by data security measures.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p44_para_000",
+          "page": 44,
+          "score": 0.7635507854582112,
+          "text_snippet": "Companies must ensure both internal and external security. Internally, a company should establish policies \nand protocols to ensure employees are abiding by data security measures. A company should al...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p40_para_001",
+          "page": 40,
+          "score": 0.6394771535116436,
+          "text_snippet": "ow the evolution of computing has led to your present-day status as a new \nemployee. You’re getting the hang of how computers are put together, how they have changed the business \nlandscape, and how y...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p7_para_004",
+          "page": 7,
+          "score": 0.6380631120801674,
+          "text_snippet": "sses may \ninclude: \n• direct deposit of paychecks \n• key card building access \n• shared company computer drives for document storage \n1.1 • Computing from Inception to Today 13",
+          "section": "1.1_history"
+        }
+      ]
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "What was the Jacquard loom an early example of in computing history?",
+      "gold_page": 3,
+      "evidence_quote": "Jacquard’s loom, which performed calculations using a punch card system, was an early development",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p3_para_000",
+          "page": 3,
+          "score": 0.7280154209499745,
+          "text_snippet": "computing companies. \nFigure 1.3 (a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as \nwas (b) Herman Hollerith’s punch-card tabulatin...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p2_para_003",
+          "page": 2,
+          "score": 0.7211761552826563,
+          "text_snippet": "quantity of numbers. The early \ncomputers essentially were developed to be “data crunchers.” Their origins date back to the 1800s in France. \nJoseph Marie Jacquard, a textile merchant, developed a mac...",
+          "section": "1.1_history"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p48_para_004",
+          "page": 48,
+          "score": 0.6394603928285092,
+          "text_snippet": "nagement, \ndata erasure, and data masking. \n Review Questions \n1 . What nineteenth-century invention laid the foundation for future developments in computing? \na. Jacquard’s loom \nb. Apple’s Macintosh...",
+          "section": "1.5_review"
+        }
+      ]
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "What allows users to save information outside of the computer unit for portable use?",
+      "gold_page": 24,
+      "evidence_quote": "allowing the user to save information outside of the computer unit for use elsewhere.",
+      "filter": {
+        "section": "1.2_hardware_network"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p24_para_000",
+          "page": 24,
+          "score": 0.7221897783691948,
+          "text_snippet": "drive. These are portable, allowing the user to save information outside of the computer unit for use \nelsewhere. \nBefore an operating system loads and is ready to use, the computer needs hardwired in...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_004",
+          "page": 23,
+          "score": 0.7014479291206209,
+          "text_snippet": "organize, interpret, or otherwise \nmake use of the information input into the computer. \n• Output entails viewing this processed information in a way that makes sense to the user, either through \nthe ...",
+          "section": "1.2_hardware_network"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p23_para_005",
+          "page": 23,
+          "score": 0.6889195605125786,
+          "text_snippet": "as it is being used. Secondary storage is \nconsidered permanent storage on a computer system or removable device, such as the old floppy disks. You \nmay also be familiar with another type of memory—ca...",
+          "section": "1.2_hardware_network"
+        }
+      ]
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "What older backup media is no longer necessary when using cloud storage?",
+      "gold_page": 38,
+      "evidence_quote": "backups of the system or flash drives to transport documents from one computer to another.",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_000",
+          "page": 38,
+          "score": 0.6779906631274639,
+          "text_snippet": "individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the \ncloud service includes many troubleshooting and technical assistance functions. When ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p37_para_002",
+          "page": 37,
+          "score": 0.6290904115710934,
+          "text_snippet": "stored on individual computers, including \nsoftware programs, data management and storage systems, and networking tools, are moved to internet \nservers. This technological advance was prompted by the ...",
+          "section": "1.3_cloud_iot"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p38_para_004",
+          "page": 38,
+          "score": 0.6249217813926495,
+          "text_snippet": "businesses to control who gains access to their computer \nnetwork. Using cloud services can offer some of the same security advantages for business. Read this \narticle on VPN and cloud computing (http...",
+          "section": "1.3_cloud_iot"
+        }
+      ]
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "What is spoofing in the context of email and communication scams?",
+      "gold_page": 41,
+      "evidence_quote": "Spoofing is communication (usually an email) that on the surface looks to be legitimate from a trusted source.",
+      "filter": {
+        "section": "1.4_security_ethics"
+      },
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_para_000",
+          "page": 41,
+          "score": 0.7124379489588338,
+          "text_snippet": "Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is \ncalled phishing. Phishing lures users to provide their personal information and login ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_005",
+          "page": 42,
+          "score": 0.6681966856279636,
+          "text_snippet": "poof accounts that present as a reputable person, when in fact they are attempting to con or \nmislead an individual. Similarly, AI and bots may interact with users, posing as real people when in fact ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p40_para_004",
+          "page": 40,
+          "score": 0.5786613540533017,
+          "text_snippet": "or financial gain by targeting businesses, government \nagencies, energy companies, and even schools. Corporate espionage can take the form of unethical or illegal \nacquisition of intellectual property...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Why do websites store cookies on a user's computer?",
+      "gold_page": 42,
+      "evidence_quote": "They keep track of your browsing and search history, collecting information about your potential interests",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_ranks": [
+        1
+      ],
+      "filter_complied": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_000",
+          "page": 42,
+          "score": 0.7555098002005133,
+          "text_snippet": "advertisements for that product, or that a store website now displays that product on its front page? For that, \nyou can thank cookies. Small data files that are deposited on user hard disks from webs...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-workplace-skills-ch01_p42_para_001",
+          "page": 42,
+          "score": 0.6996539100963862,
+          "text_snippet": "wsing preferences, allowing internet pages to load faster than if you \nhad loaded them the first time. Regardless of convenience, it is a good idea to clear cookies from time to time \nand to restrict ...",
+          "section": "1.4_security_ethics"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-workplace-skills-ch01_p41_para_004",
+          "page": 41,
+          "score": 0.6370592032825702,
+          "text_snippet": "essed or stolen. \nInternet and Web Privacy \nThe internet is pervasive and omnipresent. It is part of all you do in business and in your everyday life. How \npeople conduct themselves online, what they ...",
+          "section": "1.4_security_ethics"
+        }
+      ]
+    }
+  ]
+}

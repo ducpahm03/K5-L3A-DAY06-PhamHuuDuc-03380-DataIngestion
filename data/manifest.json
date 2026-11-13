@@ -1,0 +1,20 @@
+{
+  "source_id": "openstax-workplace-skills-ch01",
+  "title": "Workplace Software and Skills - Chapter 1: Technology in Everyday Life and Business",
+  "authors": "OpenStax",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "source_url": "https://openstax.org/details/books/workplace-software-and-skills",
+  "accessed_at": "2026-11-13",
+  "original_file": "Workplace_Software_and_Skills_-_WEB_IlfJtcP.pdf",
+  "extracted_file": "data/chapter1_workplace_skills.pdf",
+  "physical_pages_extracted": 51,
+  "content_pages_count": 48,
+  "page_exclusion_rule": "File trích xuất gồm 51 trang (tương ứng trang 16 đến 66 của bản PDF gốc). Trong đó: trang 1 là trang bìa/scenario chương, 2 trang cuối là danh sách bài tập ôn tập không chứa thông tin mới. Tổng số trang nội dung hữu ích là 48 trang (vượt mức tối thiểu 30 trang theo yêu cầu đề bài).",
+  "metadata_schema": {
+    "document_id": "openstax-workplace-skills-ch01",
+    "source": "data/chapter1_workplace_skills.pdf",
+    "page": "int (1-based index trong file PDF trích xuất)",
+    "chapter": 1,
+    "section": "1.1_history | 1.2_hardware_network | 1.3_cloud_iot | 1.4_security_ethics | 1.5_review"
+  }
+}

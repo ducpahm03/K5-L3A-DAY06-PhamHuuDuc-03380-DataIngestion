@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"doc_id,source,page,section",None,gemini-embedding-001 (3072d),"Cắt cố định 500 ký tự dễ bị cắt cụt câu nhưng mật độ keyword cao giúp Hit@1 tốt",13/15 (86.67%),15/15 (100%),5/5 (100%),5/5 (100%),373 chunks; Coherence 1.0/2
+B,by_paragraph,800,None,"doc_id,source,page,section",None,gemini-embedding-001 (3072d),"Cắt theo đoạn văn bảo toàn trọn vẹn ngữ cảnh và giảm 34.6% số lượng chunk",11/15 (73.33%),15/15 (100%),5/5 (100%),5/5 (100%),244 chunks; Coherence 2.0/2
+C,by_paragraph,800,None,"doc_id,source,page,section",metadata.section,gemini-embedding-001 (3072d),"Thêm bộ lọc section giúp loại bỏ hoàn toàn nhiễu từ các chương khác khi câu hỏi có chỉ định phạm vi",11/15 (73.33%),15/15 (100%),5/5 (100%),5/5 (100%),244 chunks; Filter compliance 5/5 (100%)
